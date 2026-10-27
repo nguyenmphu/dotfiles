@@ -34,9 +34,6 @@ require("lazy").setup({
   checker = { enabled = true },
 })
 
--- Setup Mason
-require("mason").setup()
-
 -- Telescope
 require("telescope").setup()
 local builtin = require('telescope.builtin')

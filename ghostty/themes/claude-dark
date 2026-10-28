@@ -1,0 +1,24 @@
+# Claude (dark) — warm charcoal background with Claude's signature clay-orange accent
+background = #262624
+foreground = #e5e3d9
+cursor-color = #d97757
+cursor-text = #262624
+selection-background = #5a4036
+selection-foreground = #faf9f5
+
+palette = 0=#1f1e1d
+palette = 1=#e06c5a
+palette = 2=#9aae7a
+palette = 3=#e0b26a
+palette = 4=#7fa6d6
+palette = 5=#c79bc0
+palette = 6=#7ebdb6
+palette = 7=#c2c0b6
+palette = 8=#6b6a63
+palette = 9=#f08a72
+palette = 10=#b2c690
+palette = 11=#ebc583
+palette = 12=#9abbe3
+palette = 13=#d9b3d3
+palette = 14=#9cd2cb
+palette = 15=#faf9f5
